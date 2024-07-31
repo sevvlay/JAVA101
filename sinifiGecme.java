@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class odev1 {
+public class sinifiGecme {
     public static void main(String[] args) {
 
     int mat, fizik, kimya, turkce, tarih, muzik;
